@@ -1,0 +1,40 @@
+body{
+    background-image: url(../Images/main.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    min-height: 100vh;
+    text-align: center;
+}
+.wel{
+    color: #8c5c03;
+    padding-top: 250px;
+    /* padding-left: 480px; */
+    text-align: center;
+    margin: 0px;
+    font-weight: 400;
+    font-size: 65px;
+}
+.ama{
+    color: #8c5c03;
+    text-align: center;
+    font-size: 65px;
+    margin: 0px;
+    font-weight: 400;
+    padding-left: 20px;
+}
+a:hover{
+    background-color: #c4beaf;
+    border-radius: 20px;
+}
+a{
+    text-align: center;
+    text-decoration: none;
+    color: #3c4d40;
+    font-size: 45px;
+    padding: 25px 30px;
+}
+div{
+    padding-left: 30px;
+    margin-top: 60px;
+}

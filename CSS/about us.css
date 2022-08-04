@@ -1,0 +1,42 @@
+*{
+    background-color: #dbc4a2;
+}
+.navbar{
+    width: 100%;
+    height: 40px;
+    text-align: center;
+}
+a{
+    color: #3c4d40;
+    margin: 100px;
+    text-decoration: none;
+    margin-top: 30px;    
+}
+a:active{
+    color: #e0ccae;
+
+}
+h1{
+    color: #3c4d40;
+    margin-left: 30px;
+}
+p{
+    font-weight: bold;
+    font: 1.5em sans-serif;
+    color: #58725e;
+}
+#footer{
+    color: black;
+    
+
+}
+.footer{
+    display: flex;
+    text-align: center;
+
+
+}
+.right{
+    display: flex;
+    
+}
